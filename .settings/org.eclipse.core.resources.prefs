@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/gov/loc/www/zing/srw/RecordType.java=UTF-8
+encoding//src/gov/loc/www/zing/srw/RequestType.java=UTF-8
+encoding//src/gov/loc/www/zing/srw/ResponseType.java=UTF-8
+encoding//src/gov/loc/www/zing/srw/SearchRetrieveRequestType.java=UTF-8
+encoding//src/gov/loc/www/zing/srw/SearchRetrieveResponseType.java=UTF-8
+encoding//src/gov/loc/www/zing/srw/srw_sample_service/SrwBindingStub.java=UTF-8
+encoding//src/gov/loc/www/zing/srw/srw_sample_service/SrwPort.java=UTF-8
+encoding//src/gov/loc/www/zing/srw/srw_sample_service/SrwService.java=UTF-8
+encoding//src/gov/loc/www/zing/srw/srw_sample_service/SrwServiceLocator.java=UTF-8
